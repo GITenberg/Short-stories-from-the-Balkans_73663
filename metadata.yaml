@@ -8,7 +8,12 @@ contributor:
     gutenberg_agent_id: '32430'
     url: http://www.gutenberg.org/2009/agents/32430
     wikipedia: https://en.wikipedia.org/wiki/Edna_W._Underwood
+covers:
+- cover_type: archival
+  image_path: 73663-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73663#Short-stories-from-the-Balkans
 gutenberg_issued: '2024-05-21'
 gutenberg_type: Text
 identifiers:
